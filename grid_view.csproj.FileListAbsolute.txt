@@ -1,0 +1,10 @@
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\bin\Debug\grid_view.exe.config
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\bin\Debug\grid_view.exe
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\bin\Debug\grid_view.pdb
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\obj\Debug\grid_view.csprojAssemblyReference.cache
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\obj\Debug\grid_view.Form1.resources
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\obj\Debug\grid_view.Properties.Resources.resources
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\obj\Debug\grid_view.csproj.GenerateResource.cache
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\obj\Debug\grid_view.csproj.CoreCompileInputs.cache
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\obj\Debug\grid_view.exe
+C:\Users\Hamyun STAR\source\repos\grid_view\grid_view\obj\Debug\grid_view.pdb
